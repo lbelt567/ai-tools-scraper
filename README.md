@@ -1,5 +1,4 @@
-# ai-tools-scraper
-# 🧠 AI Toolhouse Scraper
+# 🧠 AI Tools Scraper
 
 This Python script scrapes 3,800+ ai tools and saves the data into a structured CSV file.
 
